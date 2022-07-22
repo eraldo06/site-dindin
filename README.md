@@ -3,6 +3,6 @@
 Educação finaceira
 
 ## Tecnologias
-  -HTML
-  -CSS
+  - HTML
+  - CSS
   
