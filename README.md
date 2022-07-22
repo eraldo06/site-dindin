@@ -1,3 +1,8 @@
 # Site Dindin
 
-- Educação finaceira
+Educação finaceira
+
+## Tecnologias
+  -HTML
+  -CSS
+  
